@@ -23,9 +23,9 @@ Ese primer contacto con los fundamentos quise aprender muchas cosas por mi cuent
 
 ## __Proyectos__
 
-### __1. BACKEND API POKEMON (TODAVÍA EN PROGRESO)__
+### __1. BACKEND API POKEMON__
 
-![proyecto_progreso](./images/proyecto_en_progreso.JPG)
+![proyecto_progreso](./images/proyecto_1.JPG)
 
 * [__Ver proyecto__](https://github.com/Jiehao530/project_pokemon)
 
@@ -33,7 +33,7 @@ Ese primer contacto con los fundamentos quise aprender muchas cosas por mi cuent
 
 ### __2. BACKEND API FOR THE MARKETPLACE__
 
-![proyecto_1](./images/proyecto_1.JPG)
+![proyecto_1](./images/proyecto_2.JPG)
 
 * [__Ver proyecto__](https://github.com/Jiehao530/project_marketplace)
 
@@ -41,14 +41,14 @@ Ese primer contacto con los fundamentos quise aprender muchas cosas por mi cuent
 
 ### __3. BACKEND API FOR USER AND PRODUCT MANAGEMENT__
 
-![proyecto_2](./images/proyecto_2.JPG)
+![proyecto_2](./images/proyecto_3.JPG)
 
 * [__Ver proyecto__](https://github.com/Jiehao530/project)
 
 ---
 ### __4. BACKEND FOR SECURE CHAT WITH USER AUTHENTICATION AND AI-DRIVEN MESSAGING__
 
-![proyecto_3](./images/proyecto_3.JPG)
+![proyecto_3](./images/proyecto_4.JPG)
 
 * [__Ver proyecto__](https://github.com/Jiehao530/project_socket)
 
